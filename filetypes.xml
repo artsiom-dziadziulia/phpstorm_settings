@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="amasty_rewards_rule-form" type="XML" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
     </extensionMap>
   </component>
