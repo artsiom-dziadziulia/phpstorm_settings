@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="system.xml" />
     <mask>*.js</mask>
-    <mask>system.xml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.php4</mask>
@@ -16,5 +16,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
