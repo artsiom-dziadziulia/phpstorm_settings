@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="sales_order_create_load_block_items.xml" type="AUTO_DETECTED" />
+      <mapping pattern="button" type="AUTO_DETECTED" />
       <mapping pattern="amstrates_rates_listing" type="XML" />
       <mapping pattern="sales_order_create_load_block_data" type="XML" />
       <mapping pattern="amasty_rewards_rule-form" type="XML" />
