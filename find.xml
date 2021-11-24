@@ -3,10 +3,10 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>system.xml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.html</mask>
     <mask>*.php4</mask>
     <mask>*.phtml</mask>
     <mask>*.php5</mask>
@@ -16,5 +16,6 @@
     <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
