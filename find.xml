@@ -14,8 +14,8 @@
     <mask>*.inc</mask>
     <mask>checkout_*.xml</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
