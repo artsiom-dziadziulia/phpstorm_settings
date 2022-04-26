@@ -6,7 +6,6 @@
     <mask>system.xml</mask>
     <mask>*.css</mask>
     <mask>*.php4</mask>
-    <mask>*.phtml</mask>
     <mask>*.php5</mask>
     <mask>*.ctp</mask>
     <mask>*.hphp</mask>
@@ -19,5 +18,6 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>default.xml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
