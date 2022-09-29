@@ -3,22 +3,20 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>system.xml</mask>
-    <mask>*.css</mask>
+    <mask>*.html</mask>
     <mask>*.php4</mask>
     <mask>*.php5</mask>
     <mask>*.ctp</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>checkout_*.xml</mask>
-    <mask>*.js</mask>
-    <mask>*.html</mask>
-    <mask>*.php</mask>
     <mask>*.json</mask>
-    <mask>default.xml</mask>
+    <mask>db_*xml</mask>
+    <mask>*.php</mask>
+    <mask>*.css</mask>
     <mask>*.phtml</mask>
+    <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>sections.xml</mask>
+    <mask>config.xml</mask>
   </component>
 </application>
