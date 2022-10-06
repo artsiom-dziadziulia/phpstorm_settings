@@ -14,10 +14,10 @@
     <mask>db_*xml</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
-    <mask>*.phtml</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>config.xml</mask>
     <mask>system.xml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
